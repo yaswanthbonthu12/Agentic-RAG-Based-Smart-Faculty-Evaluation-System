@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+langchain-ollama
+langchain-cohere
+langchain-community
+google-generativeai
+pinecone
+pinecone-text
+cohere
+pandas
+python-dotenv
+pymysql
+sqlalchemy
