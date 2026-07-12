@@ -1,6 +1,6 @@
 # Agentic RAG-Based Faculty Recommendation System
 
-An AI-powered Faculty Secommendation System built using **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **Hybrid Search**, **SQL Query Generation**, and **Large Language Models (LLMs)**. The system enables users to interact using natural language and retrieves insights related to faculty performance, student ratings, attendance, marks, and academic analytics.
+An AI-powered Faculty Recommendation System built using **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **Hybrid Search**, **SQL Query Generation**, and **Large Language Models (LLMs)**. The system enables users to interact using natural language and retrieves insights related to faculty performance, student ratings, attendance, marks, and academic analytics.
 
 By intelligently understanding user intent, the system dynamically selects the appropriate AI tool to provide fast, accurate, and context-aware responses.
 
